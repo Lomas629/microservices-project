@@ -7,7 +7,7 @@ This repository contains a microservices-based architecture designed to provide 
 ## Features
 
 - **Microservices Architecture:** The project is divided into independent microservices, each responsible for a specific functionality. This enables easier development, deployment, and maintenance.
-- **Service Discovery:** [Explain how service discovery is implemented, e.g., using tools like Consul, Eureka, etc.]
+- **Service Discovery:** Explain how service discovery is implemented, e.g., using tools like Consul, Eureka, etc.
 - **API Gateway:** Centralized API Gateway is implemented to manage and route requests to the appropriate microservices, providing a unified entry point for external clients.
 - **Logging and Monitoring:** Integrated logging and monitoring solutions for real-time insights into the system's performance and error tracking.
 - **Security:** Security measures, including authentication and authorization, are implemented to protect the microservices and ensure data integrity.
